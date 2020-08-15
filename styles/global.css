@@ -3501,7 +3501,7 @@ body:not(.page--has-secondary-nav) .site-nav-container.is-sticky {
 }
 
 .marketing-nav--skin-dark {
-    background-color: #000639;
+    background-color: #0a0b13;
     border-bottom-color: transparent;
 }
 
@@ -4288,7 +4288,7 @@ body:not(.page--has-secondary-nav) .site-nav-container.is-sticky {
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    background: #000639;
+    background: #0a0b13;
 }
 
 .footer--main::after {
