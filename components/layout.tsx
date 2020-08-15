@@ -7,7 +7,7 @@ const TopHero = () => (
     <div className="grid">
       <div className="grid__item">
         <h1 className="section-heading__heading heading--2 ui-hero__header gutter-bottom--reset--mobile">
-          Darcy's Shopify Notes
+          Darcy' Shopify Notes
         </h1>
         <p className="section-heading__kicker heading--5 hide--mobile">
           not shopify offical
