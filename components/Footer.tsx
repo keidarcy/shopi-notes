@@ -11,7 +11,7 @@ export default function Footer() {
                   <a href="https://blog.xyyolab.com/">{'  '}Xing Yahao.</a>
                   <br />
                   Create Note Together?
-                  <a href="https://github.com/keidarcy/nextjs-blog">{'  '}Contact Me.</a>
+                  <a href="https://github.com/keidarcy/shopi-notes">{'  '}Contact Me.</a>
                 </p>
               </div>
             </div>

@@ -18,7 +18,7 @@ export default function SideBar({ posts }) {
         </ul>
 
         <p>
-          <a href="https://github.com/keidarcy/nextjs-blog" className="link--external">
+          <a href="https://github.com/keidarcy/shopi-notes" className="link--external">
             GitHub repository
           </a>
         </p>
