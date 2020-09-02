@@ -2,6 +2,10 @@
 
 
 
-[git flow](https://nvie.com/posts/a-successful-git-branching-model/)
+ - [git flow](https://nvie.com/posts/a-successful-git-branching-model/)
 
-[beanstalk](https://beanstalkapp.com/shopify)
+ - [beanstalk](https://beanstalkapp.com/shopify)
+
+ - [slatest](https://github.com/entozoon/slates)
+
+ - [slatest-example](https://github.com/entozoon/slatest-example)
