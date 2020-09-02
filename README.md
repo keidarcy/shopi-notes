@@ -3,3 +3,5 @@
 
 
 [git flow](https://nvie.com/posts/a-successful-git-branching-model/)
+
+[beanstalk](https://beanstalkapp.com/shopify)
